@@ -1,5 +1,5 @@
 import regina
-from SigToSeq import Des_seq, Cusp_info, Mfd_cusp_index
+from SigToSeq import Des_seq
 from TestForCovers import CuspSeqs, Covers, CuspCovers 
 # Both SigToSeq.py and TestForCovers.py can be accessed from the
 # url "https://github.com/Adhibrittik/orb_triangulation_tetrahedral"
