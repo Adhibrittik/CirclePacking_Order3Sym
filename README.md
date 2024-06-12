@@ -4,7 +4,7 @@ For the following python files, download SnapPy as a Python module (see https://
 
 The following files need to be run with regina-python (see https://regina-normal.github.io/docs/man-regina-python.html): Iso_sig.py, E_good_cover.py, E4_computations.py, 6220n_computation.py.
 
-Some of the python files in this repository import other codes/files from this repository and/or other outside modules/files/functions. 
+Some of the python files in this repository import other codes/files from this repository and/or other outside modules/files/functions in addition to (any) in-built python modules. 
 
 One also need to download all these other outside modules/files: SigToSeq.py and TestForCovers.py from https://github.com/Adhibrittik/orb_triangulation_tetrahedral, example.py and tetrahedralOrientableCuspedCensus.rga from https://unhyperbolic.org/tetrahedralCensus/tetrahedralCensus/regina/. 
 (Not all of these outsides files are imported in each code in this repository. Look at the individual codes to see which codes import which modules/files/functions.) 
